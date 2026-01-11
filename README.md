@@ -50,3 +50,7 @@ Les 200 premiers articles de chaque thématique ont été sélectionnés afin de
 ### Prérequis et installation
 Installation des dépendances
 **pip install -r requirements.txt**
+
+### Glove Embedding
+Les embeddings de mots GloVe utilisés dans ce projet correspondent au modèle GloVe 6B en dimension 100, mis à disposition par le Stanford NLP Group.
+link : ** https://nlp.stanford.edu/projects/glove/**
